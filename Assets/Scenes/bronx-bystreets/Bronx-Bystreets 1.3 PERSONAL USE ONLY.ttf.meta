@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 18b89244fd265804583ccd553e63ceac
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Bronx Bystreets
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: c580d180aba5faa4394be119e5acd091, type: 3}
+  - {fileID: 12800000, guid: 22520679472bc664ca4586799f691203, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
