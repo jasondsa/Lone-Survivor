@@ -1,5 +1,4 @@
 """Introducing "Lone Survivor," an immersive 3D zombie shooting game that challenges players to navigate through a post-apocalyptic world infested with hordes of undead. 
-
 As a survivor, your mission is to fight for survival against relentless waves of zombies, showcasing your strategic prowess and resilience.
 With its dynamic gameplay, "Lone Survivor" offers a unique and unpredictable experience with randomized enemy spawns, ensuring that each playthrough presents new challenges and demands adaptive tactics. 
 Your survival skills will be put to the test as you face ever-changing scenarios in this unforgiving environment.
